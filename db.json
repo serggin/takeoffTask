@@ -1,0 +1,75 @@
+{
+    "users": [
+      {
+        "login": "user1",
+        "password": "pswd1"
+      },
+      {
+        "login": "user2",
+        "password": "pswd2"
+      }
+    ],
+    "contacts": [
+      {
+        "login": "user1",
+        "name": "Dominic Hermann",
+        "phone": "093-038-5293",
+        "email": "Dominic.Hermann29@hotmail.com"
+      },
+      {
+        "login": "user1",
+        "name": "Paul Swaniawski",
+        "phone": "294-987-8643",
+        "email": "Paul.Swaniawski93@gmail.com"
+      },
+      {
+        "login": "user1",
+        "name": "Emanuel Tromp",
+        "phone": "861-139-0229",
+        "email": "Emanuel_Tromp35@hotmail.com"
+      },
+      {
+        "login": "user1",
+        "name": "Pauline Wilkinson",
+        "phone": "140-817-8738",
+        "email": "Pauline3@hotmail.com"
+      },
+      {
+        "login": "user1",
+        "name": "Gilberto McCullough",
+        "phone": "291-567-1725",
+        "email": "Gilberto.McCullough85@gmail.com"
+      },
+      {
+        "login": "user2",
+        "name": "Nellie Hammes",
+        "phone": "395-137-1578",
+        "email": "Nellie.Hammes34@hotmail.com"
+      },
+      {
+        "login": "user2",
+        "name": "Laurence Kohler",
+        "phone": "836-378-7099",
+        "email": "Laurence70@gmail.com"
+      },
+      {
+        "login": "user2",
+        "name": "Dianne Fisher",
+        "phone": "714-021-2938",
+        "email": "Dianne_Fisher@hotmail.com"
+      },
+      {
+        "login": "user2",
+        "name": "Andrea Keebler",
+        "phone": "608-224-1615",
+        "email": "Andrea43@hotmail.com"
+      },
+      {
+        "login": "user2",
+        "name": "Lucia Monahan",
+        "phone": "849-461-9494",
+        "email": "Lucia76@hotmail.com"
+      }
+    ]
+}
+  
